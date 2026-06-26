@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: Alerta de Vida para API
+## SavedVariables: AlertaVidaDB
+
+AlertaVida.lua
